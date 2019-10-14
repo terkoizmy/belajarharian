@@ -1,0 +1,46 @@
+//HUKUM NEWTON 2
+
+masukan "M" dengan angka
+masukan "A" dengan angka
+masukan "F" tanpa masukan angka
+
+menghitung "M" kali "A"
+SET "F" dari hasil menghitung
+
+tampilkan "F
+
+
+--------------------------------------
+//TAHUN KABINET
+
+masukan "Tahun" dengan angka
+
+menghitung "Tahun" modulus 4
+menghitung "Tahun" modulus 100
+
+jika keduanya Hasilnya 0
+    tampilkan "maka itu tahun kabinet"
+ELSE
+    tampilkan "maka itu bukan tahun kabinet"
+
+----------------------------------------
+// laundry day
+
+masukan "baju" dengan 0
+
+sementara "baju" <= 20
+  tambah "baju" dengan 1
+
+TAMPILKAN "sudah masuk semua"
+
+-----------------------------------------
+//Periksa kuku
+
+masukan "murid" dengan 1
+
+WHILE "murid" <= 40
+  DISPLAY "murid"
+  jika "murid" berkuku panjang
+    Tampilkan "Dihukum"
+  ELSE
+    DISPLAY "Dipuji"
