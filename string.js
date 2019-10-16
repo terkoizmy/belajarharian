@@ -28,7 +28,7 @@ console.log('Fourth Word: ' + fourthWord);
 console.log('Fifth Word: ' + fifthWord);
 */
 
-//--------- TUGAS 3
+//--------- TUGAS 3 //
 /*
 
 var word = 'wow JavaScript is so cool';
@@ -46,7 +46,7 @@ console.log('Fifth Word: ' + fifthWord);
 */
 
 //--------- TUGAS 4
-/*
+
 var word = 'wow JavaScript is so cool';
 var exampleFirstWord = word.substring(0 , 3);
 var secondWord = word.substr(4 , 10) // do your own!
@@ -67,4 +67,3 @@ console.log('Second Word: ' + secondWord + ', with length: ' + secondWordLength)
 console.log('Third Word: ' + thirdWord + ', with length: ' + thirdWordLength);
 console.log('Fourth Word: ' + fourthWord + ', with length: ' + fourthWordLength);
 console.log('Fifth Word: ' + fifthWord + ', with length: ' + fifthWordLength);
-*/
