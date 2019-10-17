@@ -52,7 +52,7 @@ var exampleFirstWord = word.substring(0 , 3);
 var secondWord = word.substr(4 , 10) // do your own!
 var thirdWord = word.substr(15 , 2) // do your own!
 var fourthWord = word.substr(18 , 2) // do your own!
-var fifthWord = word.substr(22 , 4) // do your own!
+var fifthWord = word.substr(21 , 4) // do your own!
 
 var firstWordLength = exampleFirstWord.length;
 var secondWordLength = secondWord.length;
