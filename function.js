@@ -1,6 +1,7 @@
 //--------- TUGAS 1
-function shoutOut(shoutOut = "hallo function"){
-    return  shoutOut
+function shoutOut(){
+    var nama = "Hallo Function"
+    return  nama
 }
 console.log(shoutOut())
 
