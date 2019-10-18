@@ -60,6 +60,8 @@ function balikKata(kata) {
   console.log(konversiMenit(120)); // 2:00
 */
 
+// ------------ TUGAS XO BANGSAT
+/*
 function xo(str) {
     let x = 0;
     let o = 0;
@@ -87,3 +89,4 @@ function xo(str) {
   console.log(xo('oxo')); // false
   console.log(xo('xxxooo')); // true
   console.log(xo('xoxooxxo')); // true
+  */
